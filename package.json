@@ -1,0 +1,12 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "*",
+    "request": "^2.81.0",
+    "underscore": "*"
+  }
+}
